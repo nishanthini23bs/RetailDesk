@@ -1,0 +1,10 @@
+db/*.db
+pycache/
+*.pyc
+venv/
+dist/
+build/
+*.spec
+invoices/
+.vscode/
+*.dll
