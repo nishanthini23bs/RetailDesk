@@ -1,4 +1,4 @@
-# 🧾 Billing App — POS & Inventory Management
+# 🧾 Retail Desk — POS & Inventory Management
 
 A complete **offline billing and inventory management** desktop application built with **Python** and **Tkinter**. Designed for small retail businesses to manage sales, inventory, invoicing, and daily ledger — all without internet.
 
@@ -14,11 +14,6 @@ A complete **offline billing and inventory management** desktop application buil
 - 💾 **Fully Offline** — Uses local SQLite database, no internet required
 - 🖨 **Print Support** — Opens PDF for printing on Windows/macOS/Linux
 
----
-
-## 🖼 Screenshots
-
-> Add screenshots here after running the app.
 
 ---
 
