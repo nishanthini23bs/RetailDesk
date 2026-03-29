@@ -115,4 +115,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙋 Author
 
-Built with ❤️ using Python.
+Nishanthini BS
